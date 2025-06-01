@@ -1,13 +1,76 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>J4DocSearch</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    pre {
+      background-color: #f4f4f4;
+      padding: 1em;
+      overflow: auto;
+    }
+    .note {
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-  <h1>J4DocSearch</h1>
-  <p>Download: 
-    <a href="https://github.com/j4docsearch/j4docsearch/releases/latest">여기 클릭</a>
-  </p>
+
+  <h1>📘 J4DocSearch</h1>
+  <p><strong>J4DocSearch</strong> is a high-speed desktop document indexing and search tool designed for Windows environments. It monitors your local drives in real time and enables fast keyword-based search across supported document types.</p>
+  <p>This standalone, lightweight application requires no external server or database. It is especially useful for users who manage a large volume of documents or frequently need to access document contents quickly.</p>
+
+  <h2>🔍 Supported File Types</h2>
+  <ul>
+    <li><code>.docx</code> – Microsoft Word (OOXML)</li>
+    <li><code>.xlsx</code> – Microsoft Excel (OOXML)</li>
+    <li><code>.pptx</code> – Microsoft PowerPoint (OOXML)</li>
+    <li><code>.pdf</code> – PDF files (text-based only)</li>
+    <li><code>.hwpx</code> – HWPX format used by Hancom Office</li>
+  </ul>
+  <p>Only text content is indexed. Binary or image-based content (e.g., scanned PDFs) is not processed.</p>
+
+  <h2>🖥️ OS Compatibility</h2>
+  <ul>
+    <li>Supported: Windows 10 / 11 (64-bit recommended)</li>
+    <li>Requires no administrator privileges</li>
+    <li>Microsoft Office or .NET not required</li>
+    <li>Distributed as a standalone .exe built from Python</li>
+    <li>Real-time monitoring based on Windows file system events</li>
+  </ul>
+
+  <h2>🆓 License</h2>
+  <ul>
+    <li><strong>License:</strong> Freeware</li>
+    <li><strong>Commercial Use:</strong> Allowed</li>
+    <li>No license fees or activation required</li>
+    <li><strong>Note:</strong> Future versions may include advertisements (e.g., banner or popup ads)</li>
+    <li>All processing and indexing occurs locally — no data is sent to external servers</li>
+  </ul>
+
+  <h2>🔗 Features</h2>
+  <ul>
+    <li>Easy setup using NSIS installer</li>
+    <li>Auto-launch and startup registration support</li>
+    <li>System tray with show/hide options</li>
+    <li>Duplicate instance prevention</li>
+    <li>Keyword highlighting and result grouping</li>
+  </ul>
+
+  <p class="note">© 2025 J4DocSearch Project. All rights reserved.</p>
+
 </body>
 </html>
