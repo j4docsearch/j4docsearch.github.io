@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>J4DocSearch</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     body {
       font-family: "Segoe UI", sans-serif;
@@ -15,6 +15,23 @@
     }
     h1, h2 {
       color: #222;
+    }
+    .logo {
+      max-width: 128px;
+      margin-bottom: 1em;
+    }
+    .download-button {
+      display: inline-block;
+      margin: 1em 0;
+      padding: 0.8em 1.4em;
+      background-color: #007acc;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .download-button:hover {
+      background-color: #005fa3;
     }
     pre {
       background-color: #f4f4f4;
@@ -29,9 +46,17 @@
 </head>
 <body>
 
+  <!-- ✅ 로고 이미지 (GitHub에 함께 업로드한 PNG나 ICO 등 사용) -->
+  <img src="j4docsearch.png" alt="J4DocSearch Logo" class="logo" />
+
   <h1>📘 J4DocSearch</h1>
   <p><strong>J4DocSearch</strong> is a high-speed desktop document indexing and search tool designed for Windows environments. It monitors your local drives in real time and enables fast keyword-based search across supported document types.</p>
   <p>This standalone, lightweight application requires no external server or database. It is especially useful for users who manage a large volume of documents or frequently need to access document contents quickly.</p>
+
+  <!-- ✅ 최신 릴리즈 다운로드 버튼 -->
+  <a href="https://github.com/your-username/your-repo/releases/latest" class="download-button" target="_blank">
+    ⬇️ Download Latest Version
+  </a>
 
   <h2>🔍 Supported File Types</h2>
   <ul>
