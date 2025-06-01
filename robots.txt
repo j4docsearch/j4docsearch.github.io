@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+
+Sitemap: https://j4docsearch.github.io/j4docsearch/sitemap.xml
