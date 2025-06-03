@@ -4,7 +4,8 @@ J4DocSearch is a high-speed desktop document indexing and search tool designed f
 
 This standalone, lightweight application requires no external server or database. It is especially useful for users who manage a large volume of documents or frequently need to access document contents quickly.
 
-⬇️ Download Latest Version
+⬇️ Download Latest Version : http://j4docsearch.github.io
+
 
 🚀 How It Works
 🔍 Full Indexing on First Launch: Scans all files on your PC across all local drives and creates a searchable index.
