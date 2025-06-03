@@ -71,6 +71,15 @@
       document.querySelectorAll('.lang-section').forEach(el => el.style.display = 'none');
       document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
     }
+
+    window.addEventListener('DOMContentLoaded', () => {
+      const userLang = navigator.language || navigator.userLanguage;
+      if (userLang.startsWith('ko')) {
+        switchLang('ko');
+      } else {
+        switchLang('en');
+      }
+    });
   </script>
 </head>
 <body>
@@ -142,6 +151,5 @@
       <p>문의: <a href="mailto:j4docsearch@gmail.com">j4docsearch@gmail.com</a></p>
     </footer>
   </div>
-
 </body>
 </html>
