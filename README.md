@@ -19,4 +19,5 @@ Supported Documents: Major office documents and PDFs, including DOC, DOCX, PPT, 
 
 Licensing: Available for free to both personal and business users. (A paid policy may apply to certain advanced features, such as corporate DRM integration.)
 
+Downlaod : https://github.com/j4docsearch/j4docsearch.github.io/releases/download/v1.0.4/j4DocSearch_Installer_v1.0.4.exe
 Download J4DocSearch now and unlock the information sleeping on your PC. You will experience a new standard in efficient document management.
