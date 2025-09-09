@@ -1,4 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://j4docsearch.github.io"
+  "version": "1.0.4",
+  "download_url": "https://j4docsearch.github.io",
+  "releaseNotes": "DOC, XLS, PPT, HWP 지원"
 }
