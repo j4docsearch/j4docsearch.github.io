@@ -1,47 +1,22 @@
-📘 J4DocSearch
+J4DocSearch: Unlock the Information Sleeping on Your PC
+J4DocSearch is an innovative document search and management solution that transforms the scattered documents on your PC into an efficient knowledge asset. You no longer have to wander through folders or remember specific file names to find important documents. J4DocSearch makes your work smarter and faster.
 
-J4DocSearch is a high-speed desktop document indexing and search tool designed for Windows environments. It monitors your local drives in real time and enables fast keyword-based search across supported document types.
+Key Features
+⚡️ Blazing-Fast Content Search: J4DocSearch directly analyzes the content of various document formats, including DOC, DOCX, PPT, PPTX, XLS, XLSX, HWP, HWPX, and PDF. Instead of vague file names like "last week's meeting minutes," you can find documents accurately with keywords contained in the content, such as "market share analysis."
 
-This standalone, lightweight application requires no external server or database. It is especially useful for users who manage a large volume of documents or frequently need to access document contents quickly.
+💎 Find Hidden Treasures in Emails: Don't miss a single file, including those attached in Outlook. Put an end to the inefficient process of digging through countless emails to find an important contract or report! J4DocSearch manages your email attachments perfectly.
 
-⬇️ Download Latest Version : http://j4docsearch.github.io
+🛡️ Powerful Document Backup & Recovery (Time Machine Function): Don't worry about accidentally overwriting or deleting a file. J4DocSearch's "Time Machine" feature automatically saves previous versions and even recovers deleted files. Protect your valuable data safely.
 
+🖥️ Lightweight Design, Minimal PC Resource Usage: J4DocSearch operates quietly in the background and won't affect your PC's performance. It's optimized to use minimal resources during indexing, so it doesn't interfere with your other tasks.
 
-🚀 How It Works
-🔍 Full Indexing on First Launch: Scans all files on your PC across all local drives and creates a searchable index.
-⚡ Real-Time Indexing: Automatically updates the index when files are added, modified, or deleted.
-📁 Changes are reflected instantly in your search results without needing a manual refresh.
-🔍 Supported File Types
-.docx – Microsoft Word (OOXML)
-.xlsx – Microsoft Excel (OOXML)
-.pptx – Microsoft PowerPoint (OOXML)
-.pdf – PDF files (text-based only)
-.hwpx – HWPX format used by Hancom Office
-Only text content is indexed. Binary or image-based content (e.g., scanned PDFs) is not processed.
+🔒 Absolute Security, No Cloud Concerns: All data indexing happens exclusively on your PC. No information is ever sent to external clouds or servers, so you can securely search and manage even your most confidential documents.
 
-🖥️ OS Compatibility
+System Requirements & Licensing
+Supported OS: Windows 10, Windows 11 (64-bit only)
 
-Supported: Windows 10 / 11 (64-bit recommended)
-Requires no administrator privileges
-Microsoft Office or .NET not required
-Distributed as a standalone .exe built from Python
-Real-time monitoring based on Windows file system events
+Supported Documents: Major office documents and PDFs, including DOC, DOCX, PPT, PPTX, XLS, XLSX, HWP, HWPX, and PDF.
 
-🆓 License
+Licensing: Available for free to both personal and business users. (A paid policy may apply to certain advanced features, such as corporate DRM integration.)
 
-License: Freeware
-Commercial Use: Allowed
-No license fees or activation required
-Note: Future versions may include advertisements (e.g., banner or popup ads)
-All processing and indexing occurs locally — no data is sent to external servers
-
-🔗 Features
-
-Easy setup using NSIS installer
-Auto-launch and startup registration support
-System tray with show/hide options
-Duplicate instance prevention
-Keyword highlighting and result grouping
-Bug reports & feature requests: j4docsearch@gmail.com
-
-© 2025 J4DocSearch Project. All rights reserved.
+Download J4DocSearch now and unlock the information sleeping on your PC. You will experience a new standard in efficient document management.
